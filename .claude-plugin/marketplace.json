@@ -1,0 +1,21 @@
+{
+  "name": "naver-pretty-blog-post",
+  "owner": {
+    "name": "Reedo"
+  },
+  "metadata": {
+    "description": "Styled Korean Naver blog posts (short-line paragraphs, emoji, highlighter, 3D cute diagrams) with category-targeted publishing and scheduled multi-post workflows via Chrome DevTools.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "naver-pretty-blog-post",
+      "description": "Styled Korean Naver blog posts (short-line paragraphs, emoji, highlighter, 3D cute diagrams) with category-targeted publishing and scheduled multi-post workflows via Chrome DevTools.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/naver-pretty-blog-post"
+      ]
+    }
+  ]
+}
